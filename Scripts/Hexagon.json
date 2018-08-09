@@ -1,0 +1,113 @@
+{
+    "name": "Hexagon AB",
+    "shortName": "HEXA-B",
+    "isin": "SE0000103699",
+    "market": "Nasdaq Stockholm(Large Cap Stockholm)",
+    "industry": "Information technology",
+    "website": "http://www.hexagon.com/",
+    "numberOfEmployees": 9600,
+    "currency": "EUR",
+    "keyDataPerShareYear": [
+        {
+            "year": 2008,
+            "equity": 3.62,
+            "netEarning": 0.64,
+            "cashFlow": 0.89,
+            "cashDividend": 0.04,
+            "payoutRatio": 0.063,
+            "sharePrice": 3,
+            "priceEarning": 5
+        },
+        {
+            "year": 2009,
+            "equity": 4.02,
+            "netEarning": 0.39,
+            "cashFlow": 0.63,
+            "cashDividend": 0.10,
+            "payoutRatio": 0.256,
+            "sharePrice": 9.1,
+            "priceEarning": 23
+        },
+        {
+            "year": 2010,
+            "equity": 6.15,
+            "netEarning": 0.30,
+            "cashFlow": 0.97,
+            "cashDividend": 0.15,
+            "payoutRatio": 0.5,
+            "sharePrice": 16.1,
+            "priceEarning": 54
+        },
+        {
+            "year": 2011,
+            "equity": 7.15,
+            "netEarning": 0.84,
+            "cashFlow": 1.13,
+            "cashDividend": 0.17,
+            "payoutRatio": 0.202,
+            "sharePrice": 11.6,
+            "priceEarning": 14
+        },
+        {
+            "year": 2012,
+            "equity": 7.84,
+            "netEarning": 1.01,
+            "cashFlow": 1.40,
+            "cashDividend": 0.28,
+            "payoutRatio": 0.277,
+            "sharePrice": 19.0,
+            "priceEarning": 19
+        },
+        {
+            "year": 2013,
+            "equity": 8.00,
+            "netEarning": 1.04,
+            "cashFlow": 1.43,
+            "cashDividend": 0.31,
+            "payoutRatio": 0.298,
+            "sharePrice": 22.95,
+            "priceEarning": 22
+        },
+        {
+            "year": 2014,
+            "equity": 9.68,
+            "netEarning": 1.13,
+            "cashFlow": 1.58,
+            "cashDividend": 0.35,
+            "payoutRatio": 0.310,
+            "sharePrice": 25.76,
+            "priceEarning": 23
+        },
+        {
+            "year": 2015,
+            "equity": 11.36,
+            "netEarning": 1.39,
+            "cashFlow": 2.01,
+            "cashDividend": 0.43,
+            "payoutRatio": 0.310,
+            "sharePrice": 34.26,
+            "priceEarning": 25
+        },
+        {
+            "year": 2016,
+            "equity": 12.70,
+            "netEarning": 1.59,
+            "cashFlow": 2.17,
+            "cashDividend": 0.48,
+            "payoutRatio": 0.302,
+            "sharePrice": 34.07,
+            "priceEarning": 21
+        },
+        {
+            "year": 2017,
+            "equity": 12.78,
+            "netEarning": 1.85,
+            "cashFlow": 2.52,
+            "cashDividend": 0.53,
+            "payoutRatio": 0.286,
+            "sharePrice": 41.74,
+            "priceEarning": 23
+        }
+        
+    ]
+}
