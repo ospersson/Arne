@@ -1,0 +1,432 @@
+{
+    "name": "Hexagon AB",
+    "shortName": "HEXA-B",
+    "isin": "SE0000103699",
+    "market": "Nasdaq Stockholm(Large Cap Stockholm)",
+    "industry": "Information technology",
+    "website": "http://www.hexagon.com/",
+    "numberOfEmployees": 17543,
+    "currency": "EUR",
+    "owners":[
+        {
+            "name": "",
+            "percentageVotes": 0,
+            "percentageCapital": 0
+        }
+    ],
+    "keyDataPerShareYear": [
+        {
+            "year": 2008,
+            "equity": 3.62,
+            "netEarning": 0.64,
+            "cashFlow": 0.89,
+            "cashDividend": 0.04,
+            "payoutRatio": 0.063,
+            "sharePrice": 3,
+            "priceEarning": 5
+        },
+        {
+            "year": 2009,
+            "equity": 4.02,
+            "netEarning": 0.39,
+            "cashFlow": 0.63,
+            "cashDividend": 0.10,
+            "payoutRatio": 0.256,
+            "sharePrice": 9.1,
+            "priceEarning": 23
+        },
+        {
+            "year": 2010,
+            "equity": 6.15,
+            "netEarning": 0.30,
+            "cashFlow": 0.97,
+            "cashDividend": 0.15,
+            "payoutRatio": 0.5,
+            "sharePrice": 16.1,
+            "priceEarning": 54
+        },
+        {
+            "year": 2011,
+            "equity": 7.15,
+            "netEarning": 0.84,
+            "cashFlow": 1.13,
+            "cashDividend": 0.17,
+            "payoutRatio": 0.202,
+            "sharePrice": 11.6,
+            "priceEarning": 14
+        },
+        {
+            "year": 2012,
+            "equity": 7.84,
+            "netEarning": 1.01,
+            "cashFlow": 1.40,
+            "cashDividend": 0.28,
+            "payoutRatio": 0.277,
+            "sharePrice": 19.0,
+            "priceEarning": 19
+        },
+        {
+            "year": 2013,
+            "equity": 8.00,
+            "netEarning": 1.04,
+            "cashFlow": 1.43,
+            "cashDividend": 0.31,
+            "payoutRatio": 0.298,
+            "sharePrice": 22.95,
+            "priceEarning": 22
+        },
+        {
+            "year": 2014,
+            "equity": 9.68,
+            "netEarning": 1.13,
+            "cashFlow": 1.58,
+            "cashDividend": 0.35,
+            "payoutRatio": 0.310,
+            "sharePrice": 25.76,
+            "priceEarning": 23
+        },
+        {
+            "year": 2015,
+            "equity": 11.36,
+            "netEarning": 1.39,
+            "cashFlow": 2.01,
+            "cashDividend": 0.43,
+            "payoutRatio": 0.310,
+            "sharePrice": 34.26,
+            "priceEarning": 25
+        },
+        {
+            "year": 2016,
+            "equity": 12.70,
+            "netEarning": 1.59,
+            "cashFlow": 2.17,
+            "cashDividend": 0.48,
+            "payoutRatio": 0.302,
+            "sharePrice": 34.07,
+            "priceEarning": 21
+        },
+        {
+            "year": 2017,
+            "equity": 12.78,
+            "netEarning": 1.85,
+            "cashFlow": 2.52,
+            "cashDividend": 0.53,
+            "payoutRatio": 0.286,
+            "sharePrice": 41.74,
+            "priceEarning": 23
+        }
+    ],
+    "keyDataPerShareQuarter": [
+        {
+            "year": 20116,
+            "quarter": 2,
+            "netEarning": 0.41
+        },
+        {
+            "year": 2017,
+            "quarter": 2,
+            "netEarning": 0.43
+        },
+        {
+            "year": 2018,
+            "quarter": 2,
+            "netEarning": 0.5
+        }
+    ],
+    "incomestatement": [
+        {
+            "year": 2008,
+            "netsales": 1511.0,
+            "operating_earnings_ebitda": 340.1,
+            "operating_earnings_ebit": 265.3,
+            "operating_earnings": 254.9,
+            "earnings_before_tax_ebt": 221.6,
+            "net_earnings": 193.5,
+            "operatingMargin": 18
+        },
+        {
+            "year": 2009,
+            "netsales": 1112.0,
+            "operating_earnings_ebitda": 238.9,
+            "operating_earnings_ebit": 168.0,
+            "operating_earnings": 150.6,
+            "earnings_before_tax_ebt": 135.8,
+            "net_earnings": 118.1,
+            "operatingMargin": 15
+        },
+        {
+            "year": 2010,
+            "netsales": 1481.3,
+            "operating_earnings_ebitda": 362.4,
+            "operating_earnings_ebit": 272.9,
+            "operating_earnings": 151.7,
+            "earnings_before_tax_ebt": 110.9,
+            "net_earnings": 91.7,
+            "operatingMargin": 18
+        },
+        {
+            "year": 2011,
+            "netsales": 2169.1,
+            "operating_earnings_ebitda": 542.4,
+            "operating_earnings_ebit": 439.8,
+            "operating_earnings": 431.3,
+            "earnings_before_tax_ebt": 372.4,
+            "net_earnings": 297.4,
+            "operatingMargin": 20
+        },
+        {
+            "year": 2012,
+            "netsales": 2380.0,
+            "operating_earnings_ebitda": 610.3,
+            "operating_earnings_ebit": 489.5,
+            "operating_earnings": 489.5,
+            "earnings_before_tax_ebt": 441.3,
+            "net_earnings": 357.4,
+            "operatingMargin": 21
+        },
+        {
+            "year": 2013,
+            "netsales": 2429.7,
+            "operating_earnings_ebitda": 642.2,
+            "operating_earnings_ebit": 507.7,
+            "operating_earnings": 492.8,
+            "earnings_before_tax_ebt": 458.9,
+            "net_earnings": 371.2,
+            "operatingMargin": 21
+        },
+        {
+            "year": 2014,
+            "netsales": 2622.4,
+            "operating_earnings_ebitda": 743.5,
+            "operating_earnings_ebit": 578.1,
+            "operating_earnings": 542.1,
+            "earnings_before_tax_ebt": 508.5,
+            "net_earnings": 406.2,
+            "operatingMargin": 22
+        },
+        {
+            "year": 2015,
+            "netsales": 3043.8,
+            "operating_earnings_ebitda": 912.3,
+            "operating_earnings_ebit": 692.7,
+            "operating_earnings": 656.1,
+            "earnings_before_tax_ebt": 629.6,
+            "net_earnings": 505.1,
+            "operatingMargin": 23
+        },
+        {
+            "year": 2016,
+            "netsales": 3149.2,
+            "operating_earnings_ebitda": 970.0,
+            "operating_earnings_ebit": 736.1,
+            "operating_earnings": 736.1,
+            "earnings_before_tax_ebt": 714.3,
+            "net_earnings": 578.6,
+            "operatingMargin": 23
+        },
+        {
+            "year": 2017,
+            "netsales": 3448.4,
+            "operating_earnings_ebitda": 1109.5,
+            "operating_earnings_ebit": 835.3,
+            "operating_earnings": 762.1,
+            "earnings_before_tax_ebt": 739.4,
+            "net_earnings": 673.8,
+            "operatingMargin": 24
+        }
+    ],
+    "incomeStatementQuarter": [
+        {
+            "year": 2016,
+            "quarter": 2,
+            "netsales": 795.8,
+            "operating_earnings_ebitda": 243.9,
+            "operating_earnings_ebit": 187.1,
+            "operating_earnings": 182.2,
+            "earnings_before_tax_ebt": 182.2,
+            "net_earnings": 147.6,
+            "operatingMargin": 23.5
+        },
+        {
+            "year": 2017,
+            "quarter": 2,
+            "netsales": 863.2,
+            "operating_earnings_ebitda": 266.6,
+            "operating_earnings_ebit": 205.3,
+            "operating_earnings": 200.0,
+            "earnings_before_tax_ebt": 191.2,
+            "net_earnings": 155.5,
+            "operatingMargin": 24
+        },
+        {
+            "year": 2018,
+            "quarter": 2,
+            "netsales": 936.9,
+            "operating_earnings_ebitda": 293.2,
+            "operating_earnings_ebit": 228.2,
+            "operating_earnings": 222.8,
+            "earnings_before_tax_ebt": 222.8,
+            "net_earnings": 182.7,
+            "operatingMargin": 24.4
+        }
+    ],
+    "balancesheet": [
+        {
+            "year": 2008,
+            "currentAssets": 737.0,
+            "fixedAssets": 1774.5,
+            "nonInterestLiabilities": 350,
+            "interestLiabilities": 1064.3,
+            "shareholdersEquity": 1097.2,
+            "totalAssets": 2511.5
+        },
+        {
+            "year": 2009,
+            "currentAssets": 645.4,
+            "fixedAssets": 1834.7,
+            "nonInterestLiabilities": 305,
+            "interestLiabilities": 957.4,
+            "shareholdersEquity": 1217.7,
+            "totalAssets": 2480.1
+        },
+        {
+            "year": 2010,
+            "currentAssets": 1052.4,
+            "fixedAssets": 3954.2,
+            "nonInterestLiabilities": 797.8,
+            "interestLiabilities": 2036.5,
+            "shareholdersEquity": 2172.3,
+            "totalAssets": 5006.6
+        },
+        {
+            "year": 2011,
+            "currentAssets": 1125.0,
+            "fixedAssets": 4218.7,
+            "nonInterestLiabilities": 914.7,
+            "interestLiabilities": 1903.2,
+            "shareholdersEquity": 2525.8,
+            "totalAssets": 5343.7
+        },
+        {
+            "year": 2012,
+            "currentAssets": 1135.9,
+            "fixedAssets": 4299.4,
+            "nonInterestLiabilities": 920.1,
+            "interestLiabilities": 1742.6,
+            "shareholdersEquity": 2772.6,
+            "totalAssets": 5435.3
+        },
+        {
+            "year": 2013,
+            "currentAssets": 1193.3,
+            "fixedAssets": 4280.3,
+            "nonInterestLiabilities": 962.6,
+            "interestLiabilities": 1664.7,
+            "shareholdersEquity": 2846.3,
+            "totalAssets": 5473.6
+        },
+        {
+            "year": 2014,
+            "currentAssets": 1410.7,
+            "fixedAssets": 5401.3,
+            "nonInterestLiabilities": 1216.5,
+            "interestLiabilities": 2125.3,
+            "shareholdersEquity": 3470.2,
+            "totalAssets": 6812.0
+        },
+        {
+            "year": 2015,
+            "currentAssets": 1492.7,
+            "fixedAssets": 5939.4,
+            "nonInterestLiabilities": 1360.7,
+            "interestLiabilities": 1969.1,
+            "shareholdersEquity": 4102.3,
+            "totalAssets": 7432.1
+        },
+        {
+            "year": 2016,
+            "currentAssets": 1672.4,
+            "fixedAssets": 6241.7,
+            "nonInterestLiabilities": 1474.5,
+            "interestLiabilities": 1848.8,
+            "shareholdersEquity": 4590.8,
+            "totalAssets": 7914.1
+        },
+        {
+            "year": 2017,
+            "currentAssets": 1815.4,
+            "fixedAssets": 6813.8,
+            "nonInterestLiabilities": 1666.8,
+            "interestLiabilities": 2344.3,
+            "shareholdersEquity": 4618.1,
+            "totalAssets": 8629.2
+        }
+    ],
+    "keyrations": [
+        {
+            "year": 2008,
+            "returnOnCapitalEmployed": 12,
+            "returnOnEquity": 18,
+            "investments": 104.6,
+            "equityRation": 44,
+            "interestCoverageRation": 7.0,
+            "netDebtTimesEquity": 0.89,
+            "cashflow1": 269.3,
+            "cashflow2": 182.7,
+            "averageNumberOfEmployees": 9062,
+            "numberOfSharesYearEnd": 301422000
+        },
+        {
+            "year": 2009,
+            "returnOnCapitalEmployed": 8,
+            "returnOnEquity": 10,
+            "investments": 77.3,
+            "equityRation": 49,
+            "interestCoverageRation": 9.5,
+            "netDebtTimesEquity": 0.66,
+            "cashflow1": 189.1,
+            "cashflow2": 247.4,
+            "averageNumberOfEmployees": 7549,
+            "numberOfSharesYearEnd": 301580000
+        },
+        {
+            "year": 2010,
+            "returnOnCapitalEmployed": 10,
+            "returnOnEquity": 6,
+            "investments": 87.2,
+            "equityRation": 43,
+            "interestCoverageRation": 3.6,
+            "netDebtTimesEquity": 0.82,
+            "cashflow1": 294.1,
+            "cashflow2": 260.4,
+            "averageNumberOfEmployees": 8179,
+            "numberOfSharesYearEnd": 352150000
+        },
+        {
+            "year": 2011,
+            "returnOnCapitalEmployed": 11,
+            "returnOnEquity": 13,
+            "investments": 135.9,
+            "equityRation": 47,
+            "interestCoverageRation": 7.0,
+            "netDebtTimesEquity": 0.66,
+            "cashflow1": 397.2,
+            "cashflow2": 369.0,
+            "averageNumberOfEmployees": 12475,
+            "numberOfSharesYearEnd": 352490000
+        },
+        {
+            "year": 2012,
+            "returnOnCapitalEmployed": 11,
+            "returnOnEquity": 13,
+            "investments": 171.8,
+            "equityRation": 51,
+            "interestCoverageRation": 7.0,
+            "netDebtTimesEquity": 0.66,
+            "cashflow1": 397.2,
+            "cashflow2": 369.0,
+            "averageNumberOfEmployees": 12475,
+            "numberOfSharesYearEnd": 352490000
+        }
+    ]
+}
