@@ -1,0 +1,104 @@
+{
+    "name": "Nolato AB",
+    "shortName": "NOLA-B",
+    "isin": "SE0000109811",
+    "market": "Nasdaq Stockholm(Small Cap Stockholm)",
+    "industry": "Industry & services",
+    "website": "https://nolato.com",
+    "numberOfEmployees": 7249,
+    "currency": "SEK",
+    "keyDataPerShareYear": [
+        {
+            "year": 2017,
+            "equity": 3.62,
+            "netEarning": 0.64,
+            "cashFlow": 0.89,
+            "cashDividend": 0.04,
+            "payoutRatio": 0.063,
+            "sharePrice": 3,
+            "priceEarning": 5
+        }
+    ],
+    "incomestatement": [
+        {
+            "year": 2013,
+            "netsales": 4522,
+            "operating_earnings_ebitda": 568,
+            "operating_earnings": 427,
+            "earnings_before_tax_ebt": 403,
+            "net_earnings": 314,
+            "operatingMargin": 9.4
+        },
+        {
+            "year": 2014,
+            "netsales": 4234,
+            "operating_earnings_ebitda": 619,
+            "operating_earnings_ebita": 470,
+            "earnings_before_tax_ebt": 462,
+            "net_earnings": 364,
+            "operatingMargin": 11.1
+        },
+        {
+            "year": 2015,
+            "netsales": 4726,
+            "operating_earnings_ebitda": 737,
+            "operating_earnings_ebita": 570,
+            "earnings_before_tax_ebt": 555,
+            "net_earnings": 420,
+            "operatingMargin": 12.1
+        },
+        {
+            "year": 2016,
+            "netsales": 4447,
+            "operating_earnings_ebitda": 636,
+            "operating_earnings_ebita": 457,
+            "earnings_before_tax_ebt": 438,
+            "net_earnings": 336,
+            "operatingMargin": 10.3
+        },
+        {
+            "year": 2017,
+            "netsales": 6720,
+            "operating_earnings_ebitda": 980,
+            "operating_earnings_ebita": 763,
+            "earnings_before_tax_ebt": 731,
+            "net_earnings": 572,
+            "operatingMargin": 11.4
+        }
+    ],
+    "balancesheet": [
+        {
+            "year": 2016,
+            "currentAssets": 737.0,
+            "fixedAssets": 1774.5,
+            "nonInterestLiabilities": 350,
+            "interestLiabilities": 1064.3,
+            "shareholdersEquity": 1097.2,
+            "totalAssets": 2511.5
+        },
+        {
+            "year": 2017,
+            "currentAssets": 737.0,
+            "fixedAssets": 1774.5,
+            "nonInterestLiabilities": 350,
+            "interestLiabilities": 1064.3,
+            "shareholdersEquity": 1097.2,
+            "totalAssets": 2511.5
+        }
+    ],
+    "keyrations": [
+        {
+            "year": 2017,
+            "returnOnCapitalEmployed": 26.6,
+            "returnOnEquity": 29.4,
+            "investments": 104.6,
+            "equityRation": 45,
+            "interestCoverageRation": 56,
+            "netDebtTimesEquity": 0.89,
+            "cashflow1": 496,
+            "cashflow2": 182.7,
+            "averageNumberOfEmployees": 7249,
+            "numberOfSharesYearEnd": 0
+        }
+    ]
+}

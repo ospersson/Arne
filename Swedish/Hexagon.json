@@ -421,12 +421,25 @@
             "returnOnEquity": 13,
             "investments": 171.8,
             "equityRation": 51,
-            "interestCoverageRation": 7.0,
-            "netDebtTimesEquity": 0.66,
-            "cashflow1": 397.2,
-            "cashflow2": 369.0,
-            "averageNumberOfEmployees": 12475,
-            "numberOfSharesYearEnd": 352490000
+            "interestCoverageRation": 9.3,
+            "netDebtTimesEquity": 0.54,
+            "cashflow1": 494.4,
+            "cashflow2": 497.3,
+            "averageNumberOfEmployees": 13203,
+            "numberOfSharesYearEnd": 352675000
+        },
+        {
+            "year": 2013,
+            "returnOnCapitalEmployed": 11,
+            "returnOnEquity": 13,
+            "investments": 216.3,
+            "equityRation": 52,
+            "interestCoverageRation": 12.7,
+            "netDebtTimesEquity": 0.49,
+            "cashflow1": 538.0,
+            "cashflow2": 506.8,
+            "averageNumberOfEmployees": 13931,
+            "numberOfSharesYearEnd": 354997000
         }
     ]
 }
