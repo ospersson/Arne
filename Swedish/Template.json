@@ -5,18 +5,31 @@
     "market": "",
     "industry": "",
     "website": "",
-    "numberOfEmployees": 0,
+    "annualReports": [
+        {
+            "year": 2017,
+            "arUrl": ""
+        }
+    ],
+    "employees" : [
+        {
+            "year": 2017,
+            "total": 0
+        }
+    ],
     "currency": "SEK",
     "keyDataPerShareYear": [
         {
             "year": 2017,
             "equity": 3.62,
-            "netEarning": 0.64,
+            "earningsPerShare": 0.64,
             "cashFlow": 0.89,
             "cashDividend": 0.04,
+            "dividendYield": 0.0,
             "payoutRatio": 0.063,
             "sharePrice": 3,
-            "priceEarning": 5
+            "priceEarning": 5,
+            "priceBook": 5
         }
     ],
     "incomestatement": [
