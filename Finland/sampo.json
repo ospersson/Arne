@@ -1,0 +1,73 @@
+{
+    "name": "Sampo Oyj",
+    "shortName": "Sampo",
+    "isin": "FI0009003305",
+    "market": "Large Cap Helsink",
+    "industry": "Banking and finance",
+    "website": "https://www.sampo.com",
+    "annualReports": [
+        {
+            "year": 2017,
+            "arUrl": "https://www.sampo.com/globalassets/arkisto/vuosikertomukset/2017/sampo_annual_report_2017.pdf"
+        }
+    ],
+    "employees" : [
+        {
+            "year": 2017,
+            "total": 9364
+        }
+    ],
+    "currency": "EUR",
+    "keyDataPerShareYear": [
+        {
+            "year": 2017,
+            "equity": 3.62,
+            "earningsPerShare": 0.64,
+            "cashFlow": 0.89,
+            "cashDividend": 0.04,
+            "dividendYield": 0.0,
+            "payoutRatio": 0.063,
+            "sharePrice": 3,
+            "priceEarning": 5,
+            "priceBook": 5
+        }
+    ],
+    "incomestatement": [
+        {
+            "year": 2017,
+            "netsales": 1511.0,
+            "operating_earnings_ebitda": 340.1,
+            "operating_earnings_ebit": 265.3,
+            "operating_earnings": 254.9,
+            "earnings_before_tax_ebt": 221.6,
+            "net_earnings": 193.5,
+            "operatingMargin": 18
+        }
+    ],
+    "balancesheet": [
+        {
+            "year": 2017,
+            "currentAssets": 737.0,
+            "fixedAssets": 1774.5,
+            "nonInterestLiabilities": 350,
+            "interestLiabilities": 1064.3,
+            "shareholdersEquity": 1097.2,
+            "totalAssets": 2511.5
+        }
+    ],
+    "keyrations": [
+        {
+            "year": 2017,
+            "returnOnCapitalEmployed": 12,
+            "returnOnEquity": 18,
+            "investments": 104.6,
+            "equityRation": 44,
+            "interestCoverageRation": 7.0,
+            "netDebtTimesEquity": 0.89,
+            "cashflow1": 269.3,
+            "cashflow2": 182.7,
+            "averageNumberOfEmployees": 0,
+            "numberOfSharesYearEnd": 0
+        }
+    ]
+}
