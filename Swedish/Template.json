@@ -17,6 +17,16 @@
             "total": 0
         }
     ],
+    "owners" : [
+        {
+            "name" : "",
+            "lastUpdate" : "2018-12-31",
+            "numberSharesTypeA" : 0,
+            "numberSharesTypeB" : 0,
+            "percentOfVotes" : 0,
+            "percentOfCapital": 0
+        }
+    ],
     "currency": "SEK",
     "keyDataPerShareYear": [
         {
@@ -29,7 +39,8 @@
             "payoutRatio": 0.063,
             "sharePrice": 3,
             "priceEarning": 5,
-            "priceBook": 5
+            "priceBook": 5,
+            "priceSales": 0
         }
     ],
     "incomestatement": [

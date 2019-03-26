@@ -1,0 +1,584 @@
+{
+    "name": "Vitec Software Group",
+    "shortName": "VIT B",
+    "isin": "SE0007871363",
+    "market": "Mid Cap Stockholm",
+    "industry": "Information technology",
+    "website": "https://www.vitecsoftware.com",
+    "annualReports": [
+        {
+            "year": 2017,
+            "arUrl": "https://www.vitecsoftware.com/globalassets/a-vitec-software-group/investor-relations/reports/delarsrapporter-arikv/ar-arkiv/vitec-arsredovisning-2017.pdf"
+        },
+        {
+            "year": 2018,
+            "arUrl": "https://www.vitecsoftware.com/globalassets/a-vitec-software-group/investor-relations/reports/vitec-arsredovisning-2018.pdf"
+        }
+    ],
+    "employees" : [
+        {
+            "year": 2006,
+            "total": 87
+        },
+        {
+            "year": 2007,
+            "total": 85
+        },
+        {
+            "year": 2008,
+            "total": 129
+        },
+        {
+            "year": 2009,
+            "total": 130
+        },
+        {
+            "year": 2010,
+            "total": 247
+        },
+        {
+            "year": 2011,
+            "total": 291
+        },
+        {
+            "year": 2012,
+            "total": 300
+        },
+        {
+            "year": 2013,
+            "total": 279
+        },
+        {
+            "year": 2014,
+            "total": 344
+        },
+        {
+            "year": 2015,
+            "total": 422
+        },
+        {
+            "year": 2016,
+            "total": 467
+        },
+        {
+            "year": 2017,
+            "total": 540
+        },
+        {
+            "year": 2018,
+            "total": 613
+        }
+    ],
+    "owners" : [
+        {
+            "name" : "Lars Stenlund",
+            "lastUpdate" : "2018-12-31",
+            "numberSharesTypeA" : 1570000,
+            "numberSharesTypeB" : 152280,
+            "percentOfVotes" : 25.32,
+            "percentOfCapital": 5.33
+        },
+        {
+            "name" : "Olov Sandberg",
+            "lastUpdate" : "2018-12-31",
+            "numberSharesTypeA" : 1420000,
+            "numberSharesTypeB" : 99565,
+            "percentOfVotes" : 22.80,
+            "percentOfCapital": 4.55
+        },
+        {
+            "name" : "Jerker Valbo",
+            "lastUpdate" : "2018-12-31",
+            "numberSharesTypeA" : 360000,
+            "numberSharesTypeB" : 115515,
+            "percentOfVotes" : 5.93,
+            "percentOfCapital": 1.44
+        },
+        {
+            "name" : "Didner & Gerge Fonder",
+            "lastUpdate" : "2018-12-31",
+            "numberSharesTypeA" : 0,
+            "numberSharesTypeB" : 2039475,
+            "percentOfVotes" : 3.26,
+            "percentOfCapital": 6.31
+        },
+        {
+            "name" : "Mawer Investment Management",
+            "lastUpdate" : "2018-12-31",
+            "numberSharesTypeA" : 0,
+            "numberSharesTypeB" : 1764873,
+            "percentOfVotes" : 2.93,
+            "percentOfCapital": 5.86
+        },
+        {
+            "name" : "Thomas Eklund",
+            "lastUpdate" : "2018-12-31",
+            "numberSharesTypeA" : 0,
+            "numberSharesTypeB" : 1746440,
+            "percentOfVotes" : 2.79,
+            "percentOfCapital": 5.4
+        },
+        {
+            "name" : "SEB Fonder",
+            "lastUpdate" : "2018-12-31",
+            "numberSharesTypeA" : 0,
+            "numberSharesTypeB" : 1706417,
+            "percentOfVotes" : 2.73,
+            "percentOfCapital": 5.28
+        },
+        {
+            "name" : "Grenspecialisten AB",
+            "lastUpdate" : "2018-12-31",
+            "numberSharesTypeA" : 0,
+            "numberSharesTypeB" : 1281135,
+            "percentOfVotes" : 2.05,
+            "percentOfCapital": 3.96
+        },
+        {
+            "name" : "Utah Retirement Systems",
+            "lastUpdate" : "2018-12-31",
+            "numberSharesTypeA" : 0,
+            "numberSharesTypeB" : 1105026,
+            "percentOfVotes" : 1.77,
+            "percentOfCapital": 3.42
+        },
+        {
+            "name" : "Avanza Pension",
+            "lastUpdate" : "2018-12-31",
+            "numberSharesTypeA" : 0,
+            "numberSharesTypeB" : 907404,
+            "percentOfVotes" : 1.45,
+            "percentOfCapital": 2.81
+        }
+    ],
+    "currency": "SEK",
+    "keyDataPerShareYear": [
+        {
+            "year": 2009,
+            "equity": 4.59,
+            "earningsPerShare": 0.71,
+            "cashFlow": 1.01,
+            "cashDividend": 0.15,
+            "dividendYield": 2.54,
+            "payoutRatio": 0.2113,
+            "sharePrice": 5.9,
+            "priceEarning": 9.75,
+            "priceBook": 2.08,
+            "priceSales": 0.68
+        },
+        {
+            "year": 2010,
+            "equity": 4.35,
+            "earningsPerShare": 0.71,
+            "cashFlow": 1.38,
+            "cashDividend": 0.20,
+            "dividendYield": 2.07,
+            "payoutRatio": 0.2817,
+            "sharePrice": 9.62,
+            "priceEarning": 9.75,
+            "priceBook": 2.08,
+            "priceSales": 0.68
+        },
+        {
+            "year": 2011,
+            "equity": 5.36,
+            "earningsPerShare": 1.21,
+            "cashFlow": 2.17,
+            "cashDividend": 0.25,
+            "dividendYield": 2.24,
+            "payoutRatio": 0.2066,
+            "sharePrice": 11.16,
+            "priceEarning": 9.75,
+            "priceBook": 2.08,
+            "priceSales": 0.68
+        },
+        {
+            "year": 2012,
+            "equity": 5.92,
+            "earningsPerShare": 1.30,
+            "cashFlow": 2.25,
+            "cashDividend": 0.40,
+            "dividendYield": 2.90,
+            "payoutRatio": 0.3077,
+            "sharePrice": 13.80,
+            "priceEarning": 10.89,
+            "priceBook": 2.33,
+            "priceSales": 0.91
+        },
+        {
+            "year": 2013,
+            "equity": 6.39,
+            "earningsPerShare": 1.16,
+            "cashFlow": 1.97,
+            "cashDividend": 0.50,
+            "dividendYield": 2.82,
+            "payoutRatio": 0.431,
+            "sharePrice": 17.7,
+            "priceEarning": 15.31,
+            "priceBook": 2.77,
+            "priceSales": 1.26
+        },
+        {
+            "year": 2014,
+            "equity": 8.85,
+            "earningsPerShare": 1.75,
+            "cashFlow": 4.4,
+            "cashDividend": 0.55,
+            "dividendYield": 2.06,
+            "payoutRatio": 0.3143,
+            "sharePrice": 26.5,
+            "priceEarning": 15.12,
+            "priceBook": 2.99,
+            "priceSales": 1.58
+        },
+        {
+            "year": 2015,
+            "equity": 9.24,
+            "earningsPerShare": 2.66,
+            "cashFlow": 5.09,
+            "cashDividend": 0.67,
+            "dividendYield": 0.89,
+            "payoutRatio": 0.3964,
+            "sharePrice": 75,
+            "priceEarning": 28.2,
+            "priceBook": 8.12,
+            "priceSales": 3.57
+        },
+        {
+            "year": 2016,
+            "equity": 11.37,
+            "earningsPerShare": 2.27,
+            "cashFlow": 5.20,
+            "cashDividend": 0.90,
+            "dividendYield": 1.19,
+            "payoutRatio": 0.3964,
+            "sharePrice": 75.5,
+            "priceEarning": 33.22,
+            "priceBook": 6.64,
+            "priceSales": 3.29
+        },
+        {
+            "year": 2017,
+            "equity": 13.34,
+            "earningsPerShare": 2.7,
+            "cashFlow": 6.78,
+            "cashDividend": 1.00,
+            "dividendYield": 1.15,
+            "payoutRatio": 0.37,
+            "sharePrice": 87,
+            "priceEarning": 32.23,
+            "priceBook": 6.52,
+            "priceSales": 3.04
+        },
+        {
+            "year": 2018,
+            "equity": 20.71,
+            "earningsPerShare": 3.23,
+            "cashFlow": 8.01,
+            "cashDividend": 1.10,
+            "dividendYield": 1.42,
+            "payoutRatio": 0.4396,
+            "sharePrice": 77.60,
+            "priceEarning": 24.03,
+            "priceBook": 3.75,
+            "priceSales": 2.47
+        },
+        {
+            "year": 2019,
+            "equity": 0,
+            "earningsPerShare": 0,
+            "cashFlow": 0,
+            "cashDividend": 1.20,
+            "dividendYield": 0,
+            "payoutRatio": 0,
+            "sharePrice": 0,
+            "priceEarning": 0,
+            "priceBook": 0,
+            "priceSales": 0
+        }
+    ],
+    "incomestatement": [
+        {
+            "year": 2006,
+            "netsales": 84.172,
+            "operating_earnings_ebitda": 0,
+            "operating_earnings_ebit": 0,
+            "operating_earnings": 0,
+            "earnings_before_tax_ebt": 0,
+            "net_earnings": 0,
+            "operatingMargin": 0
+        },
+        {
+            "year": 2007,
+            "netsales": 83.647,
+            "operating_earnings_ebitda": 0,
+            "operating_earnings_ebit": 0,
+            "operating_earnings": 0,
+            "earnings_before_tax_ebt": 0,
+            "net_earnings": 0,
+            "operatingMargin": 0
+        },
+        {
+            "year": 2008,
+            "netsales": 136.311,
+            "operating_earnings_ebitda": 0,
+            "operating_earnings_ebit": 0,
+            "operating_earnings": 0,
+            "earnings_before_tax_ebt": 0,
+            "net_earnings": 0,
+            "operatingMargin": 0
+        },
+        {
+            "year": 2009,
+            "netsales": 144.510,
+            "operating_earnings_ebitda": 0,
+            "operating_earnings_ebit": 0,
+            "operating_earnings": 0,
+            "earnings_before_tax_ebt": 0,
+            "net_earnings": 0,
+            "operatingMargin": 0
+        },
+        {
+            "year": 2010,
+            "netsales": 313.410,
+            "operating_earnings_ebitda": 0,
+            "operating_earnings_ebit": 0,
+            "operating_earnings": 0,
+            "earnings_before_tax_ebt": 0,
+            "net_earnings": 0,
+            "operatingMargin": 0
+        },
+        {
+            "year": 2011,
+            "netsales": 359.598,
+            "operating_earnings_ebitda": 0,
+            "operating_earnings_ebit": 0,
+            "operating_earnings": 0,
+            "earnings_before_tax_ebt": 0,
+            "net_earnings": 0,
+            "operatingMargin": 0
+        },
+        {
+            "year": 2012,
+            "netsales": 389.2,
+            "operating_earnings_ebitda": 0,
+            "operating_earnings_ebit": 0,
+            "operating_earnings": 0,
+            "earnings_before_tax_ebt": 0,
+            "net_earnings": 0,
+            "operatingMargin": 0
+        },
+        {
+            "year": 2013,
+            "netsales": 371.631,
+            "operating_earnings_ebitda": 0,
+            "operating_earnings_ebit": 0,
+            "operating_earnings": 0,
+            "earnings_before_tax_ebt": 0,
+            "net_earnings": 30.229,
+            "operatingMargin": 11
+        },
+        {
+            "year": 2014,
+            "netsales": 491.956,
+            "operating_earnings_ebitda": 0,
+            "operating_earnings_ebit": 0,
+            "operating_earnings": 0,
+            "earnings_before_tax_ebt": 0,
+            "net_earnings": 49.065,
+            "operatingMargin": 14
+        },
+        {
+            "year": 2015,
+            "netsales": 618.385,
+            "operating_earnings_ebitda": 0,
+            "operating_earnings_ebit": 0,
+            "operating_earnings": 0,
+            "earnings_before_tax_ebt": 0,
+            "net_earnings": 78.191,
+            "operatingMargin": 16
+        },
+        {
+            "year": 2016,
+            "netsales": 675.4,
+            "operating_earnings_ebitda": 0,
+            "operating_earnings_ebit": 0,
+            "operating_earnings": 0,
+            "earnings_before_tax_ebt": 0,
+            "net_earnings": 66.814,
+            "operatingMargin": 13
+        },
+        {
+            "year": 2017,
+            "netsales": 855.029,
+            "operating_earnings_ebitda": 233.584,
+            "operating_earnings_ebit": 106.702,
+            "operating_earnings": 0,
+            "earnings_before_tax_ebt": 98.127,
+            "net_earnings": 79.426,
+            "operatingMargin": 12
+        },
+        {
+            "year": 2018,
+            "netsales": 1016.763,
+            "operating_earnings_ebitda": 286.835,
+            "operating_earnings_ebit": 128.372,
+            "operating_earnings": 0,
+            "earnings_before_tax_ebt": 116.775,
+            "net_earnings": 96.920,
+            "operatingMargin": 13
+        }
+    ],
+    "balancesheet": [
+        {
+            "year": 2017,
+            "currentAssets": 271.182,
+            "fixedAssets": 990.788,
+            "nonInterestLiabilities": 457.708,
+            "interestLiabilities": 406.098,
+            "shareholdersEquity": 398.164,
+            "totalAssets": 1261.970
+        },
+        {
+            "year": 2018,
+            "currentAssets": 495.687,
+            "fixedAssets": 1179.961,
+            "nonInterestLiabilities": 496.767,
+            "interestLiabilities": 509.253,
+            "shareholdersEquity": 669.628,
+            "totalAssets": 1675.648
+        }
+    ],
+    "keyrations": [
+        {
+            "year": 2009,
+            "returnOnCapitalEmployed": 0,
+            "returnOnEquity": 0,
+            "investments": 0,
+            "equityRation": 0,
+            "interestCoverageRation": 0,
+            "netDebtTimesEquity": 0,
+            "cashflow1": 0,
+            "cashflow2": 0,
+            "averageNumberOfEmployees": 130,
+            "numberOfSharesYearEnd": 19163500
+        },
+        {
+            "year": 2010,
+            "returnOnCapitalEmployed": 0,
+            "returnOnEquity": 0,
+            "investments": 0,
+            "equityRation": 0,
+            "interestCoverageRation": 0,
+            "netDebtTimesEquity": 0,
+            "cashflow1": 0,
+            "cashflow2": 0,
+            "averageNumberOfEmployees": 247,
+            "numberOfSharesYearEnd": 21257250
+        },
+        {
+            "year": 2011,
+            "returnOnCapitalEmployed": 0,
+            "returnOnEquity": 0,
+            "investments": 0,
+            "equityRation": 0,
+            "interestCoverageRation": 0,
+            "netDebtTimesEquity": 0,
+            "cashflow1": 0,
+            "cashflow2": 0,
+            "averageNumberOfEmployees": 291,
+            "numberOfSharesYearEnd": 21835375
+        },
+        {
+            "year": 2012,
+            "returnOnCapitalEmployed": 0,
+            "returnOnEquity": 0,
+            "investments": 0,
+            "equityRation": 0,
+            "interestCoverageRation": 0,
+            "netDebtTimesEquity": 0,
+            "cashflow1": 0,
+            "cashflow2": 0,
+            "averageNumberOfEmployees": 300,
+            "numberOfSharesYearEnd": 25741635
+        },
+        {
+            "year": 2013,
+            "returnOnCapitalEmployed": 16,
+            "returnOnEquity": 19,
+            "investments": 0,
+            "equityRation": 44,
+            "interestCoverageRation": 0,
+            "netDebtTimesEquity": 0,
+            "cashflow1": 51.505,
+            "cashflow2": 0,
+            "averageNumberOfEmployees": 279,
+            "numberOfSharesYearEnd": 26541635
+        },
+        {
+            "year": 2014,
+            "returnOnCapitalEmployed": 18,
+            "returnOnEquity": 23,
+            "investments": 0,
+            "equityRation": 34,
+            "interestCoverageRation": 0,
+            "netDebtTimesEquity": 0,
+            "cashflow1": 123.220,
+            "cashflow2": 0,
+            "averageNumberOfEmployees": 344,
+            "numberOfSharesYearEnd": 29396690
+        },
+        {
+            "year": 2015,
+            "returnOnCapitalEmployed": 21,
+            "returnOnEquity": 29,
+            "investments": 0,
+            "equityRation": 31,
+            "interestCoverageRation": 0,
+            "netDebtTimesEquity": 0,
+            "cashflow1": 149.751,
+            "cashflow2": 0,
+            "averageNumberOfEmployees": 422,
+            "numberOfSharesYearEnd": 29396690
+        },
+        {
+            "year": 2016,
+            "returnOnCapitalEmployed": 14,
+            "returnOnEquity": 22,
+            "investments": 0,
+            "equityRation": 30,
+            "interestCoverageRation": 0,
+            "netDebtTimesEquity": 0,
+            "cashflow1": 152.757,
+            "cashflow2": 0,
+            "averageNumberOfEmployees": 467,
+            "numberOfSharesYearEnd": 29396690
+        },
+        {
+            "year": 2017,
+            "returnOnCapitalEmployed": 14,
+            "returnOnEquity": 22,
+            "investments": 0,
+            "equityRation": 32,
+            "interestCoverageRation": 0,
+            "netDebtTimesEquity": 0,
+            "cashflow1": 199.612,
+            "cashflow2": 0,
+            "averageNumberOfEmployees": 540,
+            "numberOfSharesYearEnd": 29838900
+        },
+        {
+            "year": 2018,
+            "returnOnCapitalEmployed": 13,
+            "returnOnEquity": 18,
+            "investments": 0,
+            "equityRation": 40,
+            "interestCoverageRation": 0,
+            "netDebtTimesEquity": 0,
+            "cashflow1": 240.477,
+            "cashflow2": 0,
+            "averageNumberOfEmployees": 613,
+            "numberOfSharesYearEnd": 30436771
+        }
+    ]
+}
